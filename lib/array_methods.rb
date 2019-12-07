@@ -26,4 +26,4 @@ array = []
 while array[counter] do
   puts array[counter]
   counter += 1
-  if value_to_find == array[counter] 
+  
