@@ -14,8 +14,8 @@ array.length.times do |count|
   if array[count] == value_to_find 
     return count
   end
+end 
   nil #nil returns if it doesnt match 
- end
 end
 
 def find_max_value(array)
