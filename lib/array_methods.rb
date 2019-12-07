@@ -29,9 +29,9 @@ end
 end
 
 def find_min_value(array)
-  x = array[0] #hypothetical chance that the first number would be the highest valued 
-  array.length.times do |index| #going through eveyr piece of the array compared to x 
-  if array[index] < x  #and if its greater then thatll be the new x 
+  x = array[0] 
+  array.length.times do |index| 
+  if array[index] < x  # the same but now it is less than
   x = array[index]
  end 
 end
