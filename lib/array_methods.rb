@@ -21,9 +21,9 @@ end
     puts array[index]
 
   
-   counter = 0 
+   unter]
+  counter += 1counter = 0 
 array = []
 while array[counter] do
-  puts array[counter]
-  counter += 1
+  puts array[co
   
