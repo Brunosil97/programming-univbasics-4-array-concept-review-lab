@@ -21,7 +21,7 @@ end
   value_to_find = array.length 
   value_to_find.times do |index|
     puts array[index]
-  end
+
   
    counter = 0 
 array = []
