@@ -15,7 +15,9 @@ array.length.times do |count|
     return count
   end
   nil #nil returns if it doesnt match 
+ end
 end
+ 
 
 
 
