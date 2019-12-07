@@ -20,7 +20,7 @@ end
 
 def find_max_value(array)
   x = array[0] #hypothetical chance that the first number would be the highest valued 
-  array.length.times do { |index|
+  array.length.times do { |index| #going through eveyr piece of the array compared to x 
   if array[index] > x 
 end
 
