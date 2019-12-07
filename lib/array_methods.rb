@@ -17,12 +17,9 @@ array.length.times do |count|
   nil #nil returns if it doesnt match 
  end
 end
- 
-
-
 
 def find_max_value(array)
-  # Add your solution here
+  x = array[0] #hypothetical chance that the first 
 end
 
 
