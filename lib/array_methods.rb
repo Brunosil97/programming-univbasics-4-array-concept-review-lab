@@ -24,6 +24,7 @@ def find_max_value(array)
   if array[index] > x  #and if its greater then thatll be the new x 
   x = array[index]
  end 
+  }
 end
 
 
