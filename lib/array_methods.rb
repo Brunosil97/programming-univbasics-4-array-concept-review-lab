@@ -19,7 +19,8 @@ array.length.times do |count|
 end
 
 def find_max_value(array)
-  x = array[0] #hypothetical chance that the first 
+  x = array[0] #hypothetical chance that the first number would be the highest valued 
+  
 end
 
 
