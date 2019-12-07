@@ -14,16 +14,3 @@ def find_min_value(array)
   # Add your solution here
 end
 
-
- array = []
-  value_to_find = array.length 
-  value_to_find.times do |index|
-    puts array[index]
-
-  
-   unter]
-  counter += 1counter = 0 
-array = []
-while array[counter] do
-  puts array[co
-  
